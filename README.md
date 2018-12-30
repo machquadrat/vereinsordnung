@@ -2,12 +2,12 @@
 
 ## Präambel:
 
-Das machquadrat ist eine inklusive Gemeinschaft, wo alle unabhängig ihres Alters, ihrer Herkunft, ihres Geschlechts, ihrer Sexualität, ihres Einkommen oder ihrer Religion willkommen isnd, um in einer Respektvollen, toleranten und ermutigenden Umgebung über Technologie zu diskutieren und zu lernen.
+Das machquadrat ist eine inklusive Gemeinschaft, wo alle unabhängig ihres Alters, ihrer Herkunft, ihres Geschlechts, ihrer Sexualität, ihres Einkommen oder ihrer Religion willkommen sind, um in einer respektvollen, toleranten und ermutigenden Umgebung über Technologie zu diskutieren und zu lernen.
 Wir wollen, dass alle Anwesenden eine angenehme und erfüllende Zeit im machquadrat verbringen. Daher sind alle Anwesenden dazu angehalten, freundlich und respektvoll miteinander umzugehen.
 Alle Mitglieder sind gleichberechtigt und dürfen das machquadrat zum Erschaffen neuer Dinge nutzen, sofern sie dabei niemanden einschränken.
 Die Vereinsordnung hält fest, was in den Räumlichkeiten des machquadrat bzw. anderen Treffen im Rahmen des Vereins machquadrat von allen Anwesenden erwartet wird. 
 
-Kurzform: be excellent to each other!
+Kurzform: **be excellent to each other!**
 
 ## §0 Definitionen
 
