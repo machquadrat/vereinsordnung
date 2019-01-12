@@ -78,6 +78,7 @@ Die Liste der bekannten Gesichter ist die Basis für das Verständnis unseres Ve
 ## §5 Raumdirektiven
 1. Bring ungenutztest Nützliches (Werkzeug, Vereins- Mitgliedereigentum etc) an seinen vorgesehenen Verwahrungsort. Im Zweifelsfall dorthin zurück von wo es geholt wurde.
 2. Bring Müll in die jeweiligen bereitgestellten Mistkübel bzw Säcke. Auch wenn der Müll nicht von dir stammt.
+3. Das Arbeiten mit Geräten, von denen eine Gefahr für Leib und Leben ausgehen kann, ist nur erlaubt, wenn zumindest eine weitere volljährige Person anwesend ist.
 
 ## §6 Cleanup
 1. Jedes anwesende Vereinsmitglied darf einmal täglich zu einem Cleanup aufrufen.
